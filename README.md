@@ -6,4 +6,4 @@ A demo application, showcasing an APEX Chat region
 - During installation, make sure to Install supporting objects too. This will create a table to store the chat messages and some test data.
 
 ### Notes
-This application was exported from an Oracle APEX instance, running version 23.1 at apex.oracle.com
+This application was exported from an Oracle APEX instance, running version 23.1 (Compatibility mode => 19.2 / 20.1 / 20.2 / 21.1) at apex.oracle.com
